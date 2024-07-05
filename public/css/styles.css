@@ -1,0 +1,12 @@
+.table {
+    width: 100%;
+    border-collapse: collapse;
+    border: 1px solid black; /* Table border color */
+}
+
+.table th,
+.table td {
+    border: 1px solid black; /* Cell border color */
+    padding: 8px; /* Padding inside cells */
+    text-align: left; /* Text alignment in cells */
+}
